@@ -1,5 +1,5 @@
 
-# Sensor variables
+# 1. Sensor variables
 
 - Las variables que consideramos más relevantes para la seguridad de una ciudad fueron la luz y el ruido.
 - Los crimenes suelen ser camuflajeados por la poca visibilidad y el ruido, asi que una ciudad segura es una ciudad bien alumbrada y callada.
