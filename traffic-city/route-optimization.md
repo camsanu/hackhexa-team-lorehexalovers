@@ -26,4 +26,4 @@ _En este caso, el menor es DF, lo que hace que terminemos nuestra ruta._
 
 ruta = menor1 + menor2;
 
-_ruta = 5_
+_ruta = 5;_
